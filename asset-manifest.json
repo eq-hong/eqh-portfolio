@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eq-hong/eqh-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/eq-hong/eqh-portfolio/static/js/main.ffe8752a.js",
-    "static/js/787.3f5cfb5a.chunk.js": "/eq-hong/eqh-portfolio/static/js/787.3f5cfb5a.chunk.js",
-    "static/media/logo.svg": "/eq-hong/eqh-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/eq-hong/eqh-portfolio/index.html",
-    "main.073c9b0a.css.map": "/eq-hong/eqh-portfolio/static/css/main.073c9b0a.css.map",
-    "main.ffe8752a.js.map": "/eq-hong/eqh-portfolio/static/js/main.ffe8752a.js.map",
-    "787.3f5cfb5a.chunk.js.map": "/eq-hong/eqh-portfolio/static/js/787.3f5cfb5a.chunk.js.map"
+    "main.css": "/eqh-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/eqh-portfolio/static/js/main.625732b9.js",
+    "static/js/787.3f5cfb5a.chunk.js": "/eqh-portfolio/static/js/787.3f5cfb5a.chunk.js",
+    "static/media/logo.svg": "/eqh-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eqh-portfolio/index.html",
+    "main.073c9b0a.css.map": "/eqh-portfolio/static/css/main.073c9b0a.css.map",
+    "main.625732b9.js.map": "/eqh-portfolio/static/js/main.625732b9.js.map",
+    "787.3f5cfb5a.chunk.js.map": "/eqh-portfolio/static/js/787.3f5cfb5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ffe8752a.js"
+    "static/js/main.625732b9.js"
   ]
 }
