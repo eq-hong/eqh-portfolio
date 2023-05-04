@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.023ded62.css",
-    "main.js": "/portfolio/static/js/main.f4165099.js",
+    "main.css": "/portfolio/static/css/main.12b3c5aa.css",
+    "main.js": "/portfolio/static/js/main.bad3d9c8.js",
     "static/js/787.3f5cfb5a.chunk.js": "/portfolio/static/js/787.3f5cfb5a.chunk.js",
     "static/media/ionicons.svg": "/portfolio/static/media/ionicons.b45d332f6829d6813600.svg",
     "static/media/ionicons.ttf": "/portfolio/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
@@ -11,12 +11,12 @@
     "static/media/Sk-Modernist-Regular.otf": "/portfolio/static/media/Sk-Modernist-Regular.e68f85ab30926114d850.otf",
     "static/media/markers-soft.png": "/portfolio/static/media/markers-soft.cdc0e07beba6866bb977.png",
     "index.html": "/portfolio/index.html",
-    "main.023ded62.css.map": "/portfolio/static/css/main.023ded62.css.map",
-    "main.f4165099.js.map": "/portfolio/static/js/main.f4165099.js.map",
+    "main.12b3c5aa.css.map": "/portfolio/static/css/main.12b3c5aa.css.map",
+    "main.bad3d9c8.js.map": "/portfolio/static/js/main.bad3d9c8.js.map",
     "787.3f5cfb5a.chunk.js.map": "/portfolio/static/js/787.3f5cfb5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.023ded62.css",
-    "static/js/main.f4165099.js"
+    "static/css/main.12b3c5aa.css",
+    "static/js/main.bad3d9c8.js"
   ]
 }
